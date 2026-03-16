@@ -1,1 +1,2 @@
 Conflict example update
+Conflict message
