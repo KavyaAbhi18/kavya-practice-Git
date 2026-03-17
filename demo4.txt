@@ -1,4 +1,1 @@
-new changes
-
-Kavya added some changes 
-new changes for conflict
+"Hello all"
